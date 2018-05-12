@@ -1,5 +1,8 @@
 _repo: Domnei--A-Comedy-of-Woman-Worship_9663
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Cabell, James Branch
@@ -13,6 +16,8 @@ description: This 1913 novel, set in the mythical kingdom of Poictesme, concerns
   outlaw named Perion who falls in love with Lady Melicent, the sister of a prominent
   count. When Perion is captured by the heathen warlord Domnei, Melicent sets out
   to win his freedom.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9663#Domnei--A-Comedy-of-Woman-Worship
 gutenberg_bookshelf: Fantasy
 gutenberg_issued: '2006-01-01'
 gutenberg_type: Text
